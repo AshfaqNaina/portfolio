@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-![Image](https://github.com/AshfaqNaina/Portfolio/project.png)
+![Image](https://github.com/AshfaqNaina/Portfolio/blob/master/project.png)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
